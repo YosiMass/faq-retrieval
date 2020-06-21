@@ -1,11 +1,11 @@
 # hrl-faq-retrieval
 
-This package contains paraphrases for the two FAQ datasets (FAQIR and StackFAQ) used in the ACL'20 paper  
-paper "Unsupervised FAQ Retrieval with Question Generation and BERT"
+This package contains the generated paraphrases for the two FAQ datasets (FAQIR and StackFAQ) used in the ACL'20 paper  
+ "Unsupervised FAQ Retrieval with Question Generation and BERT"
 
 Those paraphrases have passed the filter as described in the paper. 
 
-Each file is a tsv format, where each line contains two fields 
+Each line is a tab separated of two fields 
 
 - The original question from the FAQ
 - A paraphrase
