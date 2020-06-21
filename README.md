@@ -1,4 +1,4 @@
-# hrl-faq-retrieval
+# faq-retrieval
 
 This package contains the generated paraphrases for the two FAQ datasets (FAQIR and StackFAQ) used in the ACL'20 paper  
  "Unsupervised FAQ Retrieval with Question Generation and BERT"
